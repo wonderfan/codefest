@@ -1,4 +1,3 @@
 # Ideas matter
----
 
 ### art education
