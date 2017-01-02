@@ -1,4 +1,4 @@
-# business
+# Business
 Ideas are cheap, execution is more important.
 
 ### IT RoadMap
