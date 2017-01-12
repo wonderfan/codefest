@@ -7,3 +7,4 @@ Ideas are cheap, execution is more important.
 - [Operating System](https://www.tutorialspoint.com/operating_system/index.htm)
 - OS system call and API
 - Compile Concept and Design
+- Machine Learning: object,specification,data exploration,model data,imlementation,verify,deploy
