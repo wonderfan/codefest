@@ -8,3 +8,8 @@ Ideas are cheap, execution is more important.
 - OS system call and API
 - Compile Concept and Design
 - Machine Learning: object,specification,data exploration,model data,imlementation,verify,deploy
+
+
+### Book Reading
+
+- `少有人走的路`
