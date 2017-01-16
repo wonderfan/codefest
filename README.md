@@ -8,6 +8,7 @@ Ideas are cheap, execution is more important.
 - OS system call and API
 - Compile Concept and Design
 - Machine Learning: object,specification,data exploration,model data,imlementation,verify,deploy
+- Compiler implementation: cgo compiler,gccgo compiler,python compiler and php compiler
 
 
 ### Book Reading
