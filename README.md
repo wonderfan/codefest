@@ -15,3 +15,4 @@ Ideas are cheap, execution is more important.
 ### Book Reading
 
 - `少有人走的路`
+- [Architecture Pattern](https://www.martinfowler.com/eaaCatalog/)
