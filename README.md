@@ -10,6 +10,7 @@ Ideas are cheap, execution is more important.
 - Machine Learning: object,specification,data exploration,model data,imlementation,verify,deploy
 - Compiler implementation: cgo compiler,gccgo compiler,python compiler and php compiler
 - Architecture framework and methodolog
+- Design Pattern
 
 
 ### Book Reading
