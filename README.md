@@ -12,6 +12,9 @@ Ideas are cheap, execution is more important.
 - Architecture framework and methodolog
 - Design Pattern
 
+### C Suite Growth
+
+- HALT management,
 
 ### Book Reading
 
