@@ -22,3 +22,4 @@ Ideas are cheap, execution is more important.
 - [Architecture Pattern](https://www.martinfowler.com/eaaCatalog/)
 - `Extending Docker`
 - `和青年朋友谈书法`
+- `顾准文集`
