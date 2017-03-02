@@ -23,3 +23,4 @@ Ideas are cheap, execution is more important.
 - `Extending Docker`
 - `和青年朋友谈书法`
 - `顾准文集`
+- `刻意练习`
