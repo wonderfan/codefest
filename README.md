@@ -24,3 +24,4 @@ Ideas are cheap, execution is more important.
 - `和青年朋友谈书法`
 - `顾准文集`
 - `刻意练习`
+- `简笔画`
