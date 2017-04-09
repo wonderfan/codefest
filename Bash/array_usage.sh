@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# set -x
+
 # The target of codes: use the array to hold the data 
 #                      and use for loop to output the content
 
@@ -10,6 +12,9 @@ declare -a languages
 # second step: initialize the array
 
 languages=('bash' 'python' 'go') # use the whitespace as the separator
+
+# calculate the length of array variable
+echo ">>>The number of elements: "${#languages[@]}
 
 # for loop
 
