@@ -26,3 +26,5 @@ Ideas are cheap, execution is more important.
 - `刻意练习`
 - `简笔画`
 - `用方格子笔记本`
+
+### Algorithm
