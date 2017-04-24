@@ -16,15 +16,13 @@ Ideas are cheap, execution is more important.
 
 - HALT management,
 
-### Book Reading
-
-- `少有人走的路`
-- [Architecture Pattern](https://www.martinfowler.com/eaaCatalog/)
-- `Extending Docker`
-- `和青年朋友谈书法`
-- `顾准文集`
-- `刻意练习`
-- `简笔画`
-- `用方格子笔记本`
-
 ### Algorithm
+
+
+### To-Do-List
+
+- [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+- [Architecture Pattern](https://www.martinfowler.com/eaaCatalog/)
+
+
+
