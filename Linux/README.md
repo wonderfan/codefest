@@ -6,6 +6,7 @@ Linux under the hood
 3. boot,loader and init process
 4. kernel schedule CPU and memory management
 5. init process 
+6. socket
 
 
 
