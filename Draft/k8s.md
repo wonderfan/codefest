@@ -9,3 +9,5 @@ Install ICP
   - icp_docker_17.09_rhel_x86_64.bin from http://pokgsa.ibm.com/projects/i/icp-2.1.0.1
   
 3. download icp package: http://pokgsa.ibm.com/projects/i/icp-2.1.0.1/ibm-cloud-private-x86_64-2.1.0.1.tar.gz
+
+4. download icp install tool: https://github.ibm.com/IBMPrivateCloud/support-tools/tree/master/install_tools
