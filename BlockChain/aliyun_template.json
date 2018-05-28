@@ -1,0 +1,40 @@
+{
+  "ROSTemplateFormatVersion" : "2015-09-01",
+  "Description": "一个简配的ecs实例，包括一个安全组，用户只需要指定imageId",
+  "Parameters" : {
+    "ImageId": {
+      "Type" : "String",
+      "Description": "镜像文件 ID，表示启动实例时选择的镜像资源"
+    },
+    "InstanceType": {
+      "Type": "String",
+      "Description": "实例的资源规格",
+      "AllowedValues": [
+        "ecs.t1.xsmall",
+        "ecs.t1.small"
+      ]
+    },
+    "SecurityGroupId": {
+      "Type": "String",
+      "Description": "安全组Id"
+    }
+  },
+  "Resources" : {
+    "WebServer": {
+      "Type": "ALIYUN::ECS::Instance",
+      "Properties": {
+        "ImageId" : {"Ref": "ImageId"},
+        "InstanceType": {"Ref": "InstanceType"},
+        "SecurityGroupId": {"Ref": "SecurityGroupId"}
+      }
+    }
+  },
+  "Outputs": {
+    "InstanceId": {
+      "Value" : {"Fn::GetAtt": ["WebServer","InstanceId"]}
+    },
+    "PublicIp": {
+      "Value" : {"Fn::GetAtt": ["WebServer","PublicIp"]}
+    }
+  }
+}
