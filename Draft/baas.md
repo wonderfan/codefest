@@ -8,3 +8,4 @@
 3. https://www.nikoin.com/docs/Whitepaper.pdf
 4. http://www.insurchain.org/InsurChain-WhitePaper.pdf
 5. https://www.ugchain.org/pdf/UGC-Whitepaper-7.2-EN.pdf
+6. https://oneledger.io/wp-content/uploads/2018/06/oneledger-whitepaper-06.01.18.pdf
