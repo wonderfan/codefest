@@ -12,3 +12,4 @@ The basic functionalities are strictly limited to:
 2. https://www.safaribooksonline.com/library/view/getting-started-with/9781783281015/
 3. https://r.va.gg/presentations/nodeconfeu.2013/#12
 4. http://www.ece.eng.wayne.edu/~sjiang/pubs/papers/wang14-LSM-SDF.pdf
+5. https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
