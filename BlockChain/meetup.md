@@ -3,6 +3,7 @@
 - [ledger](https://www.ibm.com/developerworks/cn/cloud/library/cl-blockchain-basics-intro-bluemix-trs/index.html)
 - [分布式账本](http://www.360doc.com/content/18/0428/14/39236936_749443600.shtml)
 - [货币的解释](https://yuedu.baidu.com/ebook/1760d31f58f5f61fb6366667)
+- [数字货币](https://www.leiphone.com/news/201711/Fwz0xtLvdK6YDle8.html)
 
 ### Materials
 
