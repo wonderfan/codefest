@@ -4,6 +4,7 @@
 - [分布式账本](http://www.360doc.com/content/18/0428/14/39236936_749443600.shtml)
 - [货币的解释](https://yuedu.baidu.com/ebook/1760d31f58f5f61fb6366667)
 - [数字货币](https://www.leiphone.com/news/201711/Fwz0xtLvdK6YDle8.html)
+- [比特币核心技术](https://baijiahao.baidu.com/s?id=1591569239685695462&wfr=spider&for=pc)
 
 ### Materials
 
