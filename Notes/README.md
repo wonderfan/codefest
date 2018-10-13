@@ -34,6 +34,18 @@ Fabric ca sever的启动采用的main方法的形式，借助server cmd结构体
 
 在接口的基础上把接口的实现类创作出来；这是从抽象思维过渡到形象思维的过程；沟通的桥梁是一个多金的少年；身上有着多重优秀的品质；从源代码上来进行解读和剖析；在这个负责连接工作的代码文件中，三个角色的组织关系是这样的：连接工厂负责连接的创造；连接储存负责连接和锁的集合工作，并把连接工厂的角色作为自己的内置属性；作为自己实现这个工作需要聚合的部分；
 
-# 2018-10-13
+# 2018-10-12
 
 在计算机的理论体系中；registry代表的是一类的处理方式，那就是寄存器；当数据从外部涌入到服务端的时候，这些数据使用统一的寄存器的安排数据的存储；具体的存储方式由存储器自己的内部的多种机制的实现，譬如同样是数据库，也可以使用不同的数据库来存储；服务端两个地方可以接受请求，那就是排序服务以及节点服务两个位置；我们可以仔细的观摩和跟踪一下，如何接受request，如何处理以及如何可以改进的地方；
+
+Define the config for client, server, secure and keep alive side;
+
+Extract the parameters from the client configuration object and transfer them into client attributes and fields; The most import method of grpc client is to create new connection; The connection object is created from grpc package through dialing the address endpoint with options;
+
+When the secure side is considered for grpc connection; the various aspects are involved such as the credentials and certificate authority;
+
+The content of credentials includes the root certificate authority; server name and certificates;
+
+The composition of GRPCServer is made up of address, network listener, server from grpc package, server certificate, key pem file, mutex lock, client root certificate authority and tls configuration.
+
+
