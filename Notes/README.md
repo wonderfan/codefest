@@ -48,4 +48,22 @@ The content of credentials includes the root certificate authority; server name 
 
 The composition of GRPCServer is made up of address, network listener, server from grpc package, server certificate, key pem file, mutex lock, client root certificate authority and tls configuration.
 
+# 2018-10-13
+
+The content in the server file contains how to create GRPCServer and how to create server from GRPC package and assign it to the GRPCServer instance;
+
+What kind of this writing style belong to? What kinds of wisdom we can learn from this code file?
+
+The order server receives the message from the client by the broadcasting interface;
+
+Firstly, the remote address is extracted from the request context; Secondly, the infinite for loop is started and continue to receive the message from the client side;
+
+When the message arrives at the server side; the channel support is constructed to analyze the message envelope; The steps of parsing and analysis as below:
+
+1. Get the channel header from the envelope message;
+2. Get the chain from the chains container by channel id;
+3. If the chain does not exist in the current chain container, assign the system channel to the variable;
+4. Classify the message envelope and get its type;
+
+
 
