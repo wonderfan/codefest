@@ -66,4 +66,20 @@ When the message arrives at the server side; the channel support is constructed 
 4. Classify the message envelope and get its type;
 
 
+# 2018-10-20
+
+There is one question that I am curious about. How does the peer node get the latest block from the orderer node?
+
+使用一种形态去表述另外一种形态；使用一种语言去阐述另外一种语言的东西；在不同的世界和体系下找到彼此的对等物。
+
+The deliver server is comprised of three small structures.javascript语言的语法中透漏着自由散漫的气息；不暴露key的合理性在哪里？discovery的result中包含哪些内容？我们应该如何拓展这个接口一遍获取更多的知识和信息？
+
+在client和peer sever之间搭建的是discover的rpc接口；peer 启动的时候在grpc server上绑定了discover的接口；
+
+在两个伙伴的帮助之下；类似桃源三结义：大哥叫discovery service；二哥叫service config，小弟叫service support；在创建一个服务结构体对象的基础之上；
+
+从上下文中提取出来来自远方的地址；唐三藏从大唐而来；我们对他带的信物进行检查；安排一个特使来准备回馈的礼物；把一个的礼物放在同一个箱子里面；处理每个查询的条件；把每个查询的结果放到宝盒里面去；当礼物准备妥当之后，进行外观的包装；赠送给对方。查询的方式可以是多次，也可以是把多个查询条件封装在一次；发送一次获得多个结果；在拿到query后，调用dispatch的方法；在dispatch方法中，根据类型拿出一个query的处理函数；在go语言中，创建一个map的对象有两种方式；在创建的时候，要考虑哪一种更适合场景和更简洁以及更方便；
+
+通过一个查询条件拿到过滤后的一个节点的集合；第一步是制作一个映射类型的集合；第二步是拿到所有的节点；并提取出所有节点的身份组成的一个集合；
+
 
