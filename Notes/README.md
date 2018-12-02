@@ -239,3 +239,23 @@ Linux系统启动的时候，每个类型有一个单独的命名空间，这些
 
 延迟执行是把一个执行延迟，排序的输入输出事件的处理，五个头部文件加载进来；定义函数然后调用头部文件中的函数；在文件中定义的函数还被定义在头部文件中的宏所修饰；这也是元编程的启蒙吧。在这个文件，可以看到一个函数的一个特性，那就是函数类型是可以做输入参数，在函数主体中调用的。这么多的头部文件说明了这个系统的复杂性和宏大。从函数的名称上也可以看出端倪来，那就是函数的讲究。函数的原型定义以及函数的具体实现；函数名称使用的是带下划线的形式来书写，开始的部分是变量的声明的语句，这些语句包括了类型以及变量的名称；去找到执行语句，重要的执行，带有明显的计算的倾向的语句来阅读和观看。核心的思想仍旧是结构的变化，函数的执行。解析出参数来，获得参数类型的实例，从而使得函数在当前的范围内可以顺利被调用。
 
+# 2018-12-02 
+
+On top of the different container networking models are different approaches for software-defined networking (SDN). For the management plane, there are functionally two core approaches at this point: the Container Networking Interface (CNI) used by Kubernetes and the libnetwork interface used by Docker.
+
+Kautz noted that with Docker recently announcing support for Kubernetes, it's likely that CNI support will be following as well.
+
+Among the different technologies for container networking today are:
+
+- Contiv - backed by Cisco and provides a VXLNA overlay model
+- Flannel/Calico - backed by Tigera and provides an overlay network between each hosted and allocates a separate subnet per host
+- Weave - backed by Weaveworks; uses standard port number for containers
+- Contrail - backed by Juniper Networks and open sourced as the TungstenFabric project; provides policy support and gateway services
+- OpenDaylight - open source effort that integrates with OpenStack Kuryr
+- OVN - open source effort that creates logical switches and routers
+
+''Upcoming Efforts''
+
+While there are already multiple production grade solutions for container networking, the technology continues to evolve. Among the newer approaches is eBPF (extended Berkeley Packet Filter) for networking control, which is used by the Cilium open source project.
+
+Additionally, there is an effort to use shared memory, rather than physical NICs to help enable networking.
