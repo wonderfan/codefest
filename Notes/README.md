@@ -259,3 +259,7 @@ Among the different technologies for container networking today are:
 While there are already multiple production grade solutions for container networking, the technology continues to evolve. Among the newer approaches is eBPF (extended Berkeley Packet Filter) for networking control, which is used by the Cilium open source project.
 
 Additionally, there is an effort to use shared memory, rather than physical NICs to help enable networking.
+
+# 2018-12-03
+
+多机网络，服务的注册和发现是基础设施要解决的问题，而不是应用要解决的问题。在一个overlay的网络中，每一个容器都有自己独立的网络地址和名称，容器的网络接口和网络接口.知识系统的可扩展性和透明参数，构建和验证,语言和语法解析器。基于软件开发包的区块链，模块的规范说明书和链间标准的说明。默克尔存储持有状态，应用的地址，账户和交易的结构及其认证，发送的令牌，提案和投票的治理；权益证明的绑定和代理授权，验证节点的处罚机制，费用的转发，权益通证的产生和流转。链间通信协议，链间协议的主要内容包括两个链间严格顺序的消息传递和认证。创建一种机制，两个容错的复制状态机可以相互传递消息。这些消息提供了一个基础层来创立区块链沟通的架构。多个应用跑在各自的区块链上，有他们自己的状态和逻辑，链间的通信和沟通依靠顺序的消息队列来实现，允许复杂的链间的处理的可能性。数学密码学也就是现代密码学，阐释现代密码原理的数学基础；代数，数论和概率论，
