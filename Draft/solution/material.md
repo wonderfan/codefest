@@ -137,3 +137,23 @@ To summarize, permissioned blockchains are managed by the entity which has the �
 administrator role. It makes it possible to regulate users’ access to contracts and, in the                              
 case of the smart-city, to data. This administrative role can obviously be divided, delegated                            
 or shared out to create governance rules.
+
+
+数据命名、数据定义、数据类型、赋值规则、科学流程。治理领域主要包括战略、组织、架构、元数据管理、主数据管理、数据生命周期管理、数据质量管理、数据安全和合规、数据应用和服务创新。
+
+从数据标准、模型结构、流程、数据标准共享和访问控制、数据更新和智能合约等数据治理协同模型的形成和应用。
+
+通过智能合约依次实现权限通证和权益通证
+
+区块链技术使用现代密码学、分布式系统、点对点网络，共识算法。
+
+数据设计涉及的几个方面：数据安全、数据所有权。
+
+通证工厂智能合约：负责创建和操作不同类型的通证。基于角色的访问控制模型，
+
+身份和访问控制，使用区块链和智能合约来提高身份的治理和审计，提供请求、批准和审计功能，与区块链进行集成。模块化的架构提供交易处理器来处理基于角色相关的交易逻辑，在账本写入的同时，同步地将区块链的状态变化和数据写入到本地的数据库。
+
+一个完整的区块链解决方案：使用超级账本Fabric以及超级账本浏览器，将这些服务部署在Kubernetes平台之上，这个解决方案使用CouchDB当作节点的数据存储后端，Apache Kafka的主题用作排序服务以及使用网络文件系统来在不同组件之间共享数据。
+
+治理和元共识,积分奖励，在区块链上如何控制通证的发行，如何显示区块链的交易和余额。把数据保存到云节点上，在此基础上构建关系型数据库，通过数据加密来保证数据存储的安全。把随机的书籍保存到网络中节点上的随机的文件中。
+
