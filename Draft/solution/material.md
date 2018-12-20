@@ -100,7 +100,6 @@ also automatically transfer these tokens
 enforcing the outcome of the smart
 contract code
 
-Climate, ecology, social justice and solidarity, the major societal challenges of the 21st century demand a better cooperation among citizen, local authorities, en private companies. The blockchain technology open new perspectives on this matter. Rooted in inclusive governance rules and a protective legal framework, blockchains can be the backbone of tomorrow's smart city: participative and collaborative。
 
 - The ledger is a database listing all transactions. This database is replicated on all                              
 validating servers. Each transaction line contains a code (hash) generated from previous                        
