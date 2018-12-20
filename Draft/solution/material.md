@@ -99,3 +99,42 @@ also automatically transfer these tokens
 (and underlying value), thus effectively
 enforcing the outcome of the smart
 contract code
+
+Climate, ecology, social justice and solidarity, the major societal challenges of the 21st century demand a better cooperation among citizen, local authorities, en private companies. The blockchain technology open new perspectives on this matter. Rooted in inclusive governance rules and a protective legal framework, blockchains can be the backbone of tomorrow's smart city: participative and collaborative。
+
+- The ledger is a database listing all transactions. This database is replicated on all                              
+validating servers. Each transaction line contains a code (hash) generated from previous                        
+transactions that guarantees its integrity (chaining principle). Transactions are grouped into                      
+packages and validated by controllers to create so-called blocks. The result of transactions                          
+is communicated through messengers. 
+ 
+- Users have an account (wallet) to access transactions on the blockchain. They can                            
+therefore be end-users or service providers who used or offer services via the blockchain. 
+ 
+If they have sufficient rights, they can execute a transaction. Sometimes these transactions                          
+must be paid for. This is where the idea of tokens comes in. Tokens are a type of credit                                      
+which can be bought by a user to pay for contract execution. 
+ 
+- Smart contracts or chain codes are a piece of code on the blockchain (?) which allow the                                    
+precise way in which the contract will be carried out to be defined. This code can use                                  
+external data, if necessary, can be based on other contracts or trigger the execution of other                                
+contracts. In the case of the Smart-City, the smart code or chain-code defines the way in                                
+which a user can interact with, and have access to, a dataset. 
+ 
+- Endorsers are mechanisms that validate (sign) the authorizations to perform transactions                        
+and initiate the execution of a contract. The overall validation of a transaction is done by                                
+checking that after each transaction, all the endorsers obtain the same ledger. 
+ 
+- Orderers help to create a communication channel between the user and the contract, to                              
+guarantee the integrity of the contract and to communicate the result of the execution to the                                
+user. In our case, they provide the user with the data he or she requested. Several validators                                  
+are used to certify a transaction. The geographic and technical distribution of these                          
+validators guarantees that the network is trustworthy. 
+ 
+- Certificate authorities are special accesses which give users access rights which have                          
+been checked by endorsers. 
+ 
+To summarize, permissioned blockchains are managed by the entity which has the                        
+administrator role. It makes it possible to regulate users’ access to contracts and, in the                              
+case of the smart-city, to data. This administrative role can obviously be divided, delegated                            
+or shared out to create governance rules.
