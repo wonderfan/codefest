@@ -6,6 +6,8 @@
 
 mysql-ctl install
 
+mysql-ctl cli
+
 ```
 
 ```
