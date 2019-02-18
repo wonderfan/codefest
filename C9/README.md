@@ -2,3 +2,9 @@
 
 ## MySQL
 
+```sh
+
+mysql-ctl install
+
+```
+
