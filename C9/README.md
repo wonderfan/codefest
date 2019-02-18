@@ -8,3 +8,6 @@ mysql-ctl install
 
 ```
 
+```
+Root User: wonderfan
+```
