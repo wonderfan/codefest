@@ -105,3 +105,42 @@
 > 商业银行的本质是经营风险，信贷是经营风险的具体体现。
 
 > 信贷的逻辑与常识  金融的解释
+
+# 2019-07-11
+
+> How can I make your day better?
+
+> What could I do to make you feel more loved?
+
+> What could I do to make you feel more respected/honored?
+
+> What could I do to make you feel more understood?
+
+> What could I do to make you feel more secure?
+
+> What could I do to make you feel more appreciated?
+
+> Are you happy?
+
+> How do you envision our future together? What can we do together to achieve that goal?
+
+> Do you have any big dreams that you have yet to share with me? And, if so, how can I help you achieve them?
+
+> If you could change one thing about our marriage, what would it be?
+
+> What’s your happiest memory of us together?
+
+> What would you like our sex life to be like?
+
+> What’s your idea of an ideal marriage?
+
+> How do you feel our marriage is going?
+
+> What can I do to make you know how much I love you?
+
+> Do you feel like we spend enough time together? 
+
+> Where do you see our relationship in five years? 
+
+> Is there anything I can do to make your day easier?
+
