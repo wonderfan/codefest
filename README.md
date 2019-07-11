@@ -144,3 +144,11 @@
 
 > Is there anything I can do to make your day easier?
 
+> Of your friends and family, who do you think has the best relationship and why?
+
+> What would you consider unforgivable and why?
+
+> Why do you love me? And when did you feel most loved by me?
+
+> Will you please marry me, all over again?
+
