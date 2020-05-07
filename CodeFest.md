@@ -5,6 +5,7 @@ Incubate my draft ideas and actions.
 
 ## BlockChain
 - [BlockChain as Service atop Ethereum](blockchain/ethereum-baas.md)
+- [Cryptography](https://engineering.purdue.edu/kak/compsec/NewLectures/)
 
 ## IT RoadMap
 - [skill-map](https://github.com/TeamStuQ/skill-map)
