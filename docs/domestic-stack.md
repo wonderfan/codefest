@@ -10,3 +10,6 @@
 
 * http://www.loongson.cn/business/general/server/
 * http://www.phytium.com.cn/Product/detail?product_id=11
+* https://new.qq.com/omn/20200509/20200509A0A4D600
+* https://wenku.baidu.com/view/606ab7d5a31614791711cc7931b765ce04087a4a.html
+
