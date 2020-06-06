@@ -387,3 +387,6 @@
 
 
 
+**参考资料**
+* https://go.beyondskills.com/hubfs/Collaterals/Practical%20Blockchain%20Fundamentals%20Course%20Syllabus.pdf
+* https://blog.csdn.net/bjgpdn/article/details/87620566
