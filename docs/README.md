@@ -4,4 +4,4 @@
 
 ## Chain Interoperability
 
-- [Side Chain](sidechain-crosschain.md)
+- [Sidechain and Interoperability](sidechain-interoperability.md)
