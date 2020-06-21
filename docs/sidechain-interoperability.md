@@ -110,6 +110,18 @@
 
 ***
 
+可信区块链预言机概括与总结。
+
+原文地址：https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086815
+
+***
+
+成本低廉的中继机制
+
+原文地址：https://arxiv.org/pdf/2002.12837.pdf
+
+***
+
 
 
 
