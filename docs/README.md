@@ -1,6 +1,6 @@
-# Title: Research Journey
+# Research Journey
 
-# Table of Content
+# Contents
 
 ## Chain Interoperability
 
