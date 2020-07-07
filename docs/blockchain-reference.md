@@ -28,4 +28,8 @@
 - [The Road to Scalable Blockchain Designs](https://www.usenix.org/system/files/login/articles/login_winter17_06_bano.pdf)
 - [Secure, Confidential Blockchains Providing High Throughput and Low Latency](https://bford.info/thesis/2019-kokoris-kogias/kokoris-kogias-thesis.pdf)
 - [Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf)
+- [A Novel Consensus Algorithm for Fast Scalable Private Blockchain](https://arxiv.org/pdf/2001.07297.pdf)
+- [A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2019/11/bloXrouteWhitepaper.pdf)
+- [Towards Scaling Blockchain Systems via Sharding](https://arxiv.org/pdf/1804.00399.pdf)
+- [Bring Internet Scale to Every Blockchain](https://arxiv.org/pdf/1810.00037.pdf)
 - []()
