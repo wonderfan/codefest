@@ -19,3 +19,9 @@
 15. 
 
 ## Blockchain Interledger
+
+
+## Paper
+- [Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm](https://arxiv.org/pdf/1911.00837.pdf)
+- [Improve Blockchain Performance using Graph Data Structure and Parallel Mining](https://arxiv.org/pdf/1808.10810.pdf)
+- []()
