@@ -32,4 +32,5 @@
 - [A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2019/11/bloXrouteWhitepaper.pdf)
 - [Towards Scaling Blockchain Systems via Sharding](https://arxiv.org/pdf/1804.00399.pdf)
 - [Bring Internet Scale to Every Blockchain](https://arxiv.org/pdf/1810.00037.pdf)
+- [A Scale-out Blockchain for Value Transfer with Spontaneous Sharding](https://arxiv.org/pdf/1801.02531.pdf)
 - []()
