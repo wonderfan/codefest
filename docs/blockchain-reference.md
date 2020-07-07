@@ -48,4 +48,7 @@
 - [Towards Scaling Blockchain Systems via Sharding](https://arxiv.org/pdf/1804.00399.pdf)
 - [Bring Internet Scale to Every Blockchain](https://arxiv.org/pdf/1810.00037.pdf)
 - [A Scale-out Blockchain for Value Transfer with Spontaneous Sharding](https://arxiv.org/pdf/1801.02531.pdf)
+- [A Memory Optimized and Flexible BlockChain for Large Scale Networks](https://arxiv.org/pdf/1801.04416.pdf)
+- [Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092.pdf)
+- [A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf)
 - []()
