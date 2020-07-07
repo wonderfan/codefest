@@ -1,5 +1,20 @@
 # Blockchain Reference
 
+## Public Blockchain
+
+1. S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system,” 2008. [Online]. Available: https://bitcoin.org/bitcoin.pdf
+2. Y.Gilad,R.Hemo,S.Micali,G.Vlachos,andN.Zeldovich,“Algorand: Scaling byzantine agreements for cryptocurrencies,” in Proceedings of the 26th Symposium on Operating Systems Principles. ACM, 2017, pp. 51–68.
+3. M. Castro and B. Liskov, “Practical byzantine fault tolerance,” in OSDI, vol. 99, 1999, pp. 173–186.
+4. I. Eyal, A. E. Gencer, E. G. Sirer, and R. Van Renesse, “Bitcoin- NG: A scalable blockchain protocol,” in 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16). USENIX Association, 2016, pp. 45–59.
+5. R. Pass and E. Shi, “Hybrid consensus: Efficient consensus in the permissionless model,” IACR Cryptology ePrint Archive, 2016. [Online]. Available: http://eprint.iacr.org/2016/917.pdf
+6. A. Kiayias, A. Russell, B. David, and R. Oliynykov, “Ouroboros: A provably secure proof-of-stake blockchain protocol,” in Annual Interna- tional Cryptology Conference. Springer, 2017, pp. 357–388.
+7. J. Poon and T. Dryja, “The bitcoin lightning network: Scalable off-chain instant payments,” Technical Report (draft), 2015. [Online]. Available: https://lightning.network/lightning- network- paper.pdf
+8. J. Poon and V. Buterin, “Plasma: Scalable autonomous smart contracts,” 2017. [Online]. Available: https://plasma.io/plasma.pdf
+9. S. Popov, “The tangle,” 2014. [Online]. Available: https://iota.org/ IOTA Whitepaper.pdf
+10. A. Churyumov, “Byteball: A decentralized system for storage and transfer of value,” 2016. [Online]. Available: https://byteball.org/ Byteball.pdf
+11. E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, and B. Ford, “Omniledger: A secure, scale-out, decentralized ledger,” IACR Cryptology ePrint Archive. [Online]. Available: https://eprint.iacr.org/2017/406.pdf
+12. 
+
 ## Blockchain Scalability
 
 1. MichaelAbd-El-Malek,GregoryR.Ganger,GarthR.Goodson,MichaelK.Reiter, and Jay J. Wylie. 2005. Fault-scalable Byzantine Fault-tolerant Services. In Pro- ceedings of the Twentieth ACM Symposium on Operating Systems Principles. ACM, 59–74.
