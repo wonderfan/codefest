@@ -51,4 +51,9 @@
 - [A Memory Optimized and Flexible BlockChain for Large Scale Networks](https://arxiv.org/pdf/1801.04416.pdf)
 - [Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092.pdf)
 - [A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf)
+- [A Protocol for Interledger Payments](https://pdfs.semanticscholar.org/ab98/c62a7efdc5362c7f36589680597a93f3111f.pdf?_ga=2.168446441.990702425.1591745701-909711685.1591745701)
+- [A zk-SNARK Verifiable Cross-Chain](https://arxiv.org/pdf/2002.01847.pdf)
+- [Towards Scalable Interoperable Blockchains Using Ultra Light Validation Systems](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-plumo_celolightclient.pdf)
 - []()
+
+
