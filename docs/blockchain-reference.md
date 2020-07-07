@@ -16,7 +16,8 @@
 12. Jiaping Wang and Hao Wang. 2019. Monoxide: Scale out Blockchains with Asynchronous Consensus Zones. In Proceedings of the 16th USENIX Symposium on Networked Systems Design and Implementation. USENIX Association, 95–112.
 13. MaofanYin,DahliaMalkhi,MichaelK.Reiter,GuyGolanGueta,andIttaiAbra- ham. 2019. HotStuff: BFT Consensus with Linearity and Responsiveness. In Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing. ACM,347–356.
 14. Mahdi Zamani, Mahnush Movahedi, and Mariana Raykova. 2018. RapidChain: Scaling Blockchain via Full Sharding. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 931–948.
-15. 
+15. E. K. Kogias, P. Jovanovic, N. Gailly, I. Khoffi, L. Gasser, and B. Ford, “Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing,” in Proceedings of the 25th USENIX Security Symposium (USENIX Security ’16), pp. 279–296.
+16. 
 
 ## Blockchain Interledger
 
@@ -24,4 +25,5 @@
 ## Paper
 - [Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm](https://arxiv.org/pdf/1911.00837.pdf)
 - [Improve Blockchain Performance using Graph Data Structure and Parallel Mining](https://arxiv.org/pdf/1808.10810.pdf)
+- [The Road to Scalable Blockchain Designs](https://www.usenix.org/system/files/login/articles/login_winter17_06_bano.pdf)
 - []()
