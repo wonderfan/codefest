@@ -26,4 +26,6 @@
 - [Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm](https://arxiv.org/pdf/1911.00837.pdf)
 - [Improve Blockchain Performance using Graph Data Structure and Parallel Mining](https://arxiv.org/pdf/1808.10810.pdf)
 - [The Road to Scalable Blockchain Designs](https://www.usenix.org/system/files/login/articles/login_winter17_06_bano.pdf)
+- [Secure, Confidential Blockchains Providing High Throughput and Low Latency](https://bford.info/thesis/2019-kokoris-kogias/kokoris-kogias-thesis.pdf)
+- [Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf)
 - []()
