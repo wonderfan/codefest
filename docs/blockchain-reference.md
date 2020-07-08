@@ -8,7 +8,7 @@
 4. I. Eyal, A. E. Gencer, E. G. Sirer, and R. Van Renesse, “Bitcoin- NG: A scalable blockchain protocol,” in 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16). USENIX Association, 2016, pp. 45–59.
 5. R. Pass and E. Shi, “Hybrid consensus: Efficient consensus in the permissionless model,” IACR Cryptology ePrint Archive, 2016. [Online]. Available: http://eprint.iacr.org/2016/917.pdf
 6. A. Kiayias, A. Russell, B. David, and R. Oliynykov, “Ouroboros: A provably secure proof-of-stake blockchain protocol,” in Annual Interna- tional Cryptology Conference. Springer, 2017, pp. 357–388.
-7. J. Poon and T. Dryja, “The bitcoin lightning network: Scalable off-chain instant payments,” Technical Report (draft), 2015. [Online]. Available: https://lightning.network/lightning- network- paper.pdf
+7. J. Poon and T. Dryja, “The bitcoin lightning network: Scalable off-chain instant payments,” Technical Report (draft), 2015. [Online]. Available: https://lightning.network/lightning-network-paper.pdf
 8. J. Poon and V. Buterin, “Plasma: Scalable autonomous smart contracts,” 2017. [Online]. Available: https://plasma.io/plasma.pdf
 9. S. Popov, “The tangle,” 2014. [Online]. Available: https://iota.org/ IOTA Whitepaper.pdf
 10. A. Churyumov, “Byteball: A decentralized system for storage and transfer of value,” 2016. [Online]. Available: https://byteball.org/ Byteball.pdf
