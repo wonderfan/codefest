@@ -58,6 +58,14 @@ FreeBSD是一个免费的、开源的操作系统。第一个发布新版本是1
 
 ***
 
+**ChainFS: Blockchain-Secured Cloud Storage**
+
+区块链可以充当实用的可信第三方。使用区块链作为可信第三方来加固云存储的安全。云存储中的数据以加密的形式进行存储。数据安全的危害主要来自于密钥的管理和元数据的管理。区块链还可以承担作为云存储操作的日志记录。
+
+原文地址：https://tristartom.github.io/docs/ChainFS-IeeeCloud18-Wip.pdf
+
+***
+
 
 
 
