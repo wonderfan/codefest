@@ -74,6 +74,15 @@ Blockchain Storage Load Balancing Among DHT Clustered Nodes
 
 ***
 
+A Blockchain-Based Storage System for Data Analytics in the Internet of Things
+
+由于物联网中的边缘设备具有一定的计算能力，可以将智能合约的执行转移到边缘设备上来执行，从而使得边缘设备可以执行自定义的程序。对于数据分析的智能合约任务来说，需要采用大规模的存储系统的并行执行来降低任务的执行时间。采用基于区块链的数据存储系统来支撑物联网中的数据分析应用。基于区块链的存储系统采用面向对象存储方式来解决数据分析中的数据存储和分析问题。
+
+原文连接：http://pages.cpsc.ucalgary.ca/~joel.reardon/blockchain/readings/blockchain_iot.pdf
+
+***
+
+
 
 
 
