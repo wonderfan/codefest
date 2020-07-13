@@ -92,6 +92,14 @@ JaxNet: Scalable Blockchain Network
 
 ***
 
+Secure, Confidential Blockchains Providing High Throughput and Low Latency
+
+区块链的三个特征：一是区块链是交易的有序集合；二是交易会引起状态的变化；三是状态存储的分布式的节点中。区块链面临的两个挑战：扩展性挑战和数据隐私挑战。基于委员会和大多数投票的可扩展性共识算法。
+
+阅读原文：https://bford.info/thesis/2019-kokoris-kogias/kokoris-kogias-thesis.pdf
+
+***
+
 
 
 
