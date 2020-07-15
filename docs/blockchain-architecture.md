@@ -116,6 +116,14 @@ Authorization to Constrained Things
 
 ***
 
+HyperService: Interoperability and Programmability Across Heterogeneous Blockchains
+
+区块链互操作是区块链大规模使用的先决条件。最近的科学研究主要集中通过交换协议在两条链之间的转移通证，其中包括侧链、原子跨链交换、加密货币抵押资产等方式。可编程性和异构区块链之间的智能合约是这些研究中所忽略的问题。Cosmos和Polkadot是倡导区块链互操作的两个著名的工业项目。
+
+原文地址：https://arxiv.org/pdf/1908.09343.pdf
+
+***
+
 
 
 
