@@ -20,6 +20,23 @@ type Block struct {
 	Data                 *BlockData     `protobuf:"bytes,2,opt,name=data,proto3" json:"data,omitempty"`
 	Metadata             *BlockMetadata `protobuf:"bytes,3,opt,name=metadata,proto3" json:"metadata,omitempty"`
 }
+
+type BlockHeader struct {
+	Number               uint64   `protobuf:"varint,1,opt,name=number,proto3" json:"number,omitempty"`
+	PreviousHash         []byte   `protobuf:"bytes,2,opt,name=previous_hash,json=previousHash,proto3" json:"previous_hash,omitempty"`
+	DataHash             []byte   `protobuf:"bytes,3,opt,name=data_hash,json=dataHash,proto3" json:"data_hash,omitempty"`
+}
+
+type BlockData struct {
+	Data                 [][]byte `protobuf:"bytes,1,rep,name=data,proto3" json:"data,omitempty"`
+}
+
+type BlockMetadata struct {
+	Metadata             [][]byte `protobuf:"bytes,1,rep,name=metadata,proto3" json:"metadata,omitempty"`
+}
+
+
+
 ```
 
 参考资料
