@@ -1,3 +1,5 @@
+## 基本原理
+
 超级账本术语，超级账本基础篇，超级账本，链码实战。超级账本环境搭建超级账本进行安装，超级账本，网络部署合约部署合约调用超级账本SDK使用。超级账本链码介绍超级账本链码的结构，超级账本链码开发环境。超级账本链码开发API超级账本Java、Node Go SDK使用。
 
 应用生命周期管理。安装和配置网络。诊断和问题调试。成员服务网络维护和运营。身份管理。网络配置。智能合约开发。智能合约调试。维护和测试。超级账本fabric开发环境。应用案例。烈马开发部署和交互。客户单和sd开发。日志和监控。超级账本的交易流程。出去账本的生命周期。超级账本交易的生命周期全周期。成员服务。通道。密码学服务。共识节点。记账节点。共识算法。
@@ -8,6 +10,17 @@
 
 超级账本，区块链网络搭建产生秘钥证书交易。文件。启动区块链网络。秘药产生及工作原理。交易产生及工作原理。创建通道加入通道。安装链码，运行链码，调用链码，网络容器拓扑。CouchDB状态数据库。
 
+## 数据结构和接口
+
+Block:
+
+```go
+type Block struct {
+	Header               *BlockHeader   `protobuf:"bytes,1,opt,name=header,proto3" json:"header,omitempty"`
+	Data                 *BlockData     `protobuf:"bytes,2,opt,name=data,proto3" json:"data,omitempty"`
+	Metadata             *BlockMetadata `protobuf:"bytes,3,opt,name=metadata,proto3" json:"metadata,omitempty"`
+}
+```
 
 参考资料
 
