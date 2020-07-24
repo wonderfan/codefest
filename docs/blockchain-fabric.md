@@ -377,6 +377,42 @@ type ChaincodeStubInterface interface {
 	SetEvent(name string, payload []byte) error
 }
 
+type Ledger interface {
+	// GetBlockchainInfo returns basic info about blockchain
+	GetBlockchainInfo() (*common.BlockchainInfo, error)
+	// GetBlockByNumber returns block at a given height
+	// blockNumber of  math.MaxUint64 will return last block
+	GetBlockByNumber(blockNumber uint64) (*common.Block, error)
+	// GetBlocksIterator returns an iterator that starts from `startBlockNumber`(inclusive).
+	// The iterator is a blocking iterator i.e., it blocks till the next block gets available in the ledger
+	// ResultsIterator contains type BlockHolder
+	GetBlocksIterator(startBlockNumber uint64) (ResultsIterator, error)
+	// Close closes the ledger
+	Close()
+}
+
+// LedgerQuerier implements the ledger query functions, including:
+// - GetChainInfo returns BlockchainInfo
+// - GetBlockByNumber returns a block
+// - GetBlockByHash returns a block
+// - GetTransactionByID returns a transaction
+type LedgerQuerier struct {
+	aclProvider aclmgmt.ACLProvider
+	ledgers     LedgerGetter
+}
+
+var qscclogger = flogging.MustGetLogger("qscc")
+
+// These are function names from Invoke first parameter
+const (
+	GetChainInfo       string = "GetChainInfo"
+	GetBlockByNumber   string = "GetBlockByNumber"
+	GetBlockByHash     string = "GetBlockByHash"
+	GetTransactionByID string = "GetTransactionByID"
+	GetBlockByTxID     string = "GetBlockByTxID"
+)
+
+
 ```
 
 
