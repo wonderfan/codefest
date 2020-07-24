@@ -12,7 +12,7 @@
 
 ## 数据结构和接口
 
-Block:
+数据结构:
 
 ```go
 type Block struct {
@@ -35,9 +35,28 @@ type BlockMetadata struct {
 	Metadata             [][]byte `protobuf:"bytes,1,rep,name=metadata,proto3" json:"metadata,omitempty"`
 }
 
+type Transaction struct {
+	// The payload is an array of TransactionAction. An array is necessary to
+	// accommodate multiple actions per transaction
+	Actions              []*TransactionAction `protobuf:"bytes,1,rep,name=actions,proto3" json:"actions,omitempty"`
+}
 
+type TransactionAction struct {
+	// The header of the proposal action, which is the proposal header
+	Header []byte `protobuf:"bytes,1,opt,name=header,proto3" json:"header,omitempty"`
+	// The payload of the action as defined by the type in the header For
+	// chaincode, it's the bytes of ChaincodeActionPayload
+	Payload              []byte   `protobuf:"bytes,2,opt,name=payload,proto3" json:"payload,omitempty"`
+}
 
 ```
+
+接口：
+
+```go
+
+```
+
 
 参考资料
 
