@@ -415,7 +415,11 @@ const (
 
 ```
 
-docker-compose arm64: https://github.com/ubiquiti/docker-compose-aarch64
+docker-compose arm64: 
+- https://github.com/ubiquiti/docker-compose-aarch64
+- https://github.com/GuruParin/docker-compose-aarch64/tree/master/1.25.0
+- https://github.com/tsitle/dockercompose-binary_and_dockerimage-aarch64_armv7l_x86_x64
+- https://github.com/breadcat/Dockerfiles-arm64
 
 参考资料
 
