@@ -28,6 +28,7 @@
 ## Awesome List
 
 - [Blockchain-Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 ## Tools
 
