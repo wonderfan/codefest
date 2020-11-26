@@ -22,6 +22,7 @@
 - [weIdentity](https://github.com/WeBankFinTech/WeIdentity)
 - [ontology-DID](https://github.com/ontio/ontology-DID)
 - [Indy](https://github.com/hyperledger/indy-node)
+- [DID](https://github.com/decentralized-identity)
 
 
 ## Tools
