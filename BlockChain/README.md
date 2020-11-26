@@ -24,6 +24,9 @@
 - [Indy](https://github.com/hyperledger/indy-node)
 - [DID](https://github.com/decentralized-identity)
 
+## Awesome List
+
+- [Blockchain-Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
 ## Tools
 
