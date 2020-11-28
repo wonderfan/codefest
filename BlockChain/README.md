@@ -20,6 +20,7 @@
 - [Tendermint](https://github.com/tendermint/tendermint)
 - [BigChainDB](https://github.com/bigchaindb/bigchaindb)
 - [Nano](https://github.com/nanocurrency/nano-node)
+- [Steem](https://github.com/steemit/steem)
 
 ## Smart Contract 
 
@@ -44,3 +45,7 @@
 - optee
 - scone
 - openclave
+
+## Paper
+
+- [Blockchain](https://github.com/decrypto-org/blockchain-papers)
