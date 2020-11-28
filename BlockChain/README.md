@@ -22,6 +22,7 @@
 - [Nano](https://github.com/nanocurrency/nano-node)
 - [Steem](https://github.com/steemit/steem)
 - [WaykiChain](https://github.com/WaykiChain/WaykiChain)
+- [Stella](https://github.com/stellar/stellar-core)
 
 ## Smart Contract 
 
