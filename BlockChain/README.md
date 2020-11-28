@@ -21,6 +21,7 @@
 - [BigChainDB](https://github.com/bigchaindb/bigchaindb)
 - [Nano](https://github.com/nanocurrency/nano-node)
 - [Steem](https://github.com/steemit/steem)
+- [WaykiChain](https://github.com/WaykiChain/WaykiChain)
 
 ## Smart Contract 
 
@@ -45,6 +46,7 @@
 - optee
 - scone
 - openclave
+- [weave](https://github.com/iov-one/weave)
 
 ## Paper
 
