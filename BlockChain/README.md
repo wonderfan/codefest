@@ -10,6 +10,7 @@
 - [Bytom](https://github.com/Bytom)
 - [Nervos](https://github.com/nervosnetwork)
 - [Cita](https://github.com/citahub/cita)
+- [Conflux](https://github.com/Conflux-Chain/conflux-rust)
 - [Chain33](https://github.com/33cn/chain33)
 - [Ontology](https://github.com/ontio/ontology)
 - [Ethereum](https://github.com/ethereum/go-ethereum)
