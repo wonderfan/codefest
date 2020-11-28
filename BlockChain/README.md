@@ -19,11 +19,13 @@
 - [Ripple](https://github.com/ripple/rippled)
 - [Tendermint](https://github.com/tendermint/tendermint)
 - [BigChainDB](https://github.com/bigchaindb/bigchaindb)
+- [Nano](https://github.com/nanocurrency/nano-node)
 
 ## Smart Contract 
 
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Arwen-wasm-vm](https://github.com/ElrondNetwork/arwen-wasm-vm)
+- [Wasm](https://github.com/wasm3/wasm3)
 
 ## DID
 
