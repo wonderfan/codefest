@@ -46,7 +46,11 @@
 - optee
 - scone
 - openclave
+
+## Framework
+
 - [weave](https://github.com/iov-one/weave)
+- [exonum](https://github.com/exonum/exonum)
 
 ## Paper
 
