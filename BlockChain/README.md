@@ -35,6 +35,7 @@
 - [Wasm](https://github.com/wasm3/wasm3)
 - [sputnikvm](https://github.com/ETCDEVTeam/sputnikvm)
 - [Pact language](https://github.com/kadena-io/pact)
+- [Element](https://github.com/ElementsProject/elements/blob/master/src/script/interpreter.cpp)
 
 ## DID
 
