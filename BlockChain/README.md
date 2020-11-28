@@ -17,6 +17,7 @@
 - [Monero](https://github.com/monero-project/monero)
 - [Quorum](https://github.com/ConsenSys/quorum)
 - [Ripple](https://github.com/ripple/rippled)
+- [Tendermint](https://github.com/tendermint/tendermint)
 - [BigChainDB](https://github.com/bigchaindb/bigchaindb)
 
 ## Smart Contract 
