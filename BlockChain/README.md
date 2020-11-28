@@ -26,6 +26,7 @@
 - [Stella](https://github.com/stellar/stellar-core)
 - [Kadena](https://github.com/kadena-io/chainweb-node/)
 - [Elrond](https://github.com/ElrondNetwork/elrond-go)
+- [DragonChain](https://github.com/dragonchain/dragonchain)
 
 ## Smart Contract 
 
