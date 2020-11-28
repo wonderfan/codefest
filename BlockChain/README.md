@@ -24,6 +24,7 @@
 - [Steem](https://github.com/steemit/steem)
 - [WaykiChain](https://github.com/WaykiChain/WaykiChain)
 - [Stella](https://github.com/stellar/stellar-core)
+- [Kadena](https://github.com/kadena-io/chainweb-node/)
 
 ## Smart Contract 
 
@@ -31,6 +32,7 @@
 - [Arwen-wasm-vm](https://github.com/ElrondNetwork/arwen-wasm-vm)
 - [Wasm](https://github.com/wasm3/wasm3)
 - [sputnikvm](https://github.com/ETCDEVTeam/sputnikvm)
+- [Pact language](https://github.com/kadena-io/pact)
 
 ## DID
 
