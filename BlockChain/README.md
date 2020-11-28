@@ -15,7 +15,8 @@
 - [Ethereum](https://github.com/ethereum/go-ethereum)
 - [Corda](https://github.com/corda/corda)
 - [Monero](https://github.com/monero-project/monero)
-- [quorum](https://github.com/ConsenSys/quorum)
+- [Quorum](https://github.com/ConsenSys/quorum)
+- [Ripple](https://github.com/ripple/rippled)
 - [BigChainDB](https://github.com/bigchaindb/bigchaindb)
 
 ## Smart Contract 
