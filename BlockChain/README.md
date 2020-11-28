@@ -25,6 +25,7 @@
 - [WaykiChain](https://github.com/WaykiChain/WaykiChain)
 - [Stella](https://github.com/stellar/stellar-core)
 - [Kadena](https://github.com/kadena-io/chainweb-node/)
+- [Elrond](https://github.com/ElrondNetwork/elrond-go)
 
 ## Smart Contract 
 
