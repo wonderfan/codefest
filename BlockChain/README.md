@@ -30,6 +30,7 @@
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Arwen-wasm-vm](https://github.com/ElrondNetwork/arwen-wasm-vm)
 - [Wasm](https://github.com/wasm3/wasm3)
+- [sputnikvm](https://github.com/ETCDEVTeam/sputnikvm)
 
 ## DID
 
