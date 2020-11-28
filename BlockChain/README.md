@@ -12,6 +12,8 @@
 - [Cita](https://github.com/citahub/cita)
 - [Chain33](https://github.com/33cn/chain33)
 - [Ontology](https://github.com/ontio/ontology)
+- [Monero](https://github.com/monero-project/monero)
+- [quorum](https://github.com/ConsenSys/quorum)
 
 ## Smart Contract 
 
