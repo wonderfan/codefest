@@ -27,6 +27,7 @@
 - [Kadena](https://github.com/kadena-io/chainweb-node/)
 - [Elrond](https://github.com/ElrondNetwork/elrond-go)
 - [DragonChain](https://github.com/dragonchain/dragonchain)
+- [Derosuite](https://github.com/deroproject/derosuite)
 
 ## Smart Contract 
 
