@@ -45,6 +45,8 @@
 - [ontology-DID](https://github.com/ontio/ontology-DID)
 - [Indy](https://github.com/hyperledger/indy-node)
 - [DID](https://github.com/decentralized-identity)
+- [Corda-DID](https://github.com/persistentsystems/corda-did-method)
+- [IOTA-DID](https://github.com/iotaledger/identity.rs)
 
 ## Awesome List
 
