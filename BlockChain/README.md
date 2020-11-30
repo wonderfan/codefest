@@ -47,6 +47,8 @@
 - [DID](https://github.com/decentralized-identity)
 - [Corda-DID](https://github.com/persistentsystems/corda-did-method)
 - [IOTA-DID](https://github.com/iotaledger/identity.rs)
+- [TrustBlock](https://github.com/trustbloc)
+
 
 ## Awesome List
 
