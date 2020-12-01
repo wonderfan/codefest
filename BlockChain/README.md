@@ -28,6 +28,7 @@
 - [Elrond](https://github.com/ElrondNetwork/elrond-go)
 - [DragonChain](https://github.com/dragonchain/dragonchain)
 - [Derosuite](https://github.com/deroproject/derosuite)
+- [Blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
 ## Smart Contract 
 
