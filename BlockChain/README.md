@@ -32,6 +32,7 @@
 - [Irita](https://github.com/bianjieai/irita)
 - [CCF](https://github.com/Microsoft/CCF)
 - [Perlin](https://github.com/perlin-network)
+- [ZeroChain](https://github.com/LayerXcom/zero-chain)
 
 ## Smart Contract 
 
