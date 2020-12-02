@@ -30,6 +30,7 @@
 - [Derosuite](https://github.com/deroproject/derosuite)
 - [Blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 - [Irita](https://github.com/bianjieai/irita)
+- [CCF](https://github.com/Microsoft/CCF)
 
 ## Smart Contract 
 
