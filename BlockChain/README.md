@@ -33,6 +33,7 @@
 - [CCF](https://github.com/Microsoft/CCF)
 - [Perlin](https://github.com/perlin-network)
 - [ZeroChain](https://github.com/LayerXcom/zero-chain)
+- [Gxchain](https://github.com/gxchain)
 
 ## Smart Contract 
 
