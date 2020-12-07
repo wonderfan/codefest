@@ -77,6 +77,7 @@
 
 - [weave](https://github.com/iov-one/weave)
 - [exonum](https://github.com/exonum/exonum)
+- [Cosmos](https://cosmonauts.world)
 
 ## Paper
 
