@@ -2,5 +2,5 @@
 
 ## Rack Server Management
 
-- [OpenRMC]()
+- [OpenRMC](https://github.com/opencomputeproject/Rack-Manager)
 - [RackHD](https://github.com/RackHD/RackHD)
