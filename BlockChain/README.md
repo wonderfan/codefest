@@ -38,7 +38,7 @@
 - [Miltichain](https://github.com/MultiChain/multichain)
 - [Nebulas](https://github.com/nebulasio/go-nebulas)
 - [Interleder](https://github.com/interledger-rs/interledger-rs)
-- []()
+- [Avalanche](https://github.com/ava-labs/avalanchego)
 
 ## Smart Contract 
 
