@@ -41,6 +41,7 @@
 - [Avalanche](https://github.com/ava-labs/avalanchego)
 - [Algorand](https://github.com/algorand/go-algorand)
 - [IPFS](https://github.com/ipfs/go-ipfs)
+- [rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)
 
 ## Smart Contract 
 
