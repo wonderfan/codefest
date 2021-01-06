@@ -39,6 +39,7 @@
 - [Nebulas](https://github.com/nebulasio/go-nebulas)
 - [Interleder](https://github.com/interledger-rs/interledger-rs)
 - [Avalanche](https://github.com/ava-labs/avalanchego)
+- [Algorand](https://github.com/algorand/go-algorand)
 
 ## Smart Contract 
 
