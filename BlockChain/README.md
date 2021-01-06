@@ -40,6 +40,7 @@
 - [Interleder](https://github.com/interledger-rs/interledger-rs)
 - [Avalanche](https://github.com/ava-labs/avalanchego)
 - [Algorand](https://github.com/algorand/go-algorand)
+- [IPFS](https://github.com/ipfs/go-ipfs)
 
 ## Smart Contract 
 
