@@ -40,7 +40,7 @@
 - [Aergo](https://github.com/aergoio/aergo)
 - [Miltichain](https://github.com/MultiChain/multichain)
 - [Nebulas](https://github.com/nebulasio/go-nebulas)
-- [Interleder](https://github.com/interledger-rs/interledger-rs)
+- [Interledger](https://github.com/interledger-rs/interledger-rs)
 - [Avalanche](https://github.com/ava-labs/avalanchego)
 - [Algorand](https://github.com/algorand/go-algorand)
 - [IPFS](https://github.com/ipfs/go-ipfs)
