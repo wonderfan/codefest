@@ -7,3 +7,4 @@
 - [图灵社区](https://www.ituring.com.cn)
 - [微信读书](https://weread.qq.com)
 - [网易阅读](http://yuedu.163.com)
+- [多看阅读](http://www.duokan.com)
