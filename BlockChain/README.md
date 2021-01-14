@@ -7,6 +7,8 @@
 ## Project Documents
 
 - [Fabric](fabric.md)
+- [Fabric Workshop](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/presentations/consensus%20-%20Hyperledger.pdf)
+- [Fabric Architecture](https://arxiv.org/pdf/1801.10228.pdf)
 
 ## Blockchain Buckets
 
