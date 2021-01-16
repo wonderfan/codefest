@@ -8,3 +8,6 @@
 - [微信读书](https://weread.qq.com)
 - [网易阅读](http://yuedu.163.com)
 - [多看阅读](http://www.duokan.com)
+- [豆瓣阅读](https://read.douban.com)
+- [当当阅读](http://e.dangdang.com/index_page.html)
+
