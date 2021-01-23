@@ -2,7 +2,10 @@
 
 ## Promising Projects
 
-- []()
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate)
+- [LikeCoin](https://github.com/likecoin)
+- [Sentinel](https://github.com/sentinel-official/sentinel)
+- [Dashboard](https://github.com/zhangyelong/cosmos-dashboard)
 
 ## Project Documents
 
