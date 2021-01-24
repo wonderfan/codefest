@@ -6,6 +6,8 @@
 - [LikeCoin](https://github.com/likecoin)
 - [Sentinel](https://github.com/sentinel-official/sentinel)
 - [Dashboard](https://github.com/zhangyelong/cosmos-dashboard)
+- [cosmos-awesome](https://github.com/cosmos/awesome)
+- [tendermint-awesome](https://github.com/tendermint/awesome)
 
 ## Project Documents
 
