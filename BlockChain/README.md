@@ -8,6 +8,7 @@
 - [Dashboard](https://github.com/zhangyelong/cosmos-dashboard)
 - [cosmos-awesome](https://github.com/cosmos/awesome)
 - [tendermint-awesome](https://github.com/tendermint/awesome)
+- [chainkit](https://github.com/blocklayerhq/chainkit)
 
 ## Project Documents
 
