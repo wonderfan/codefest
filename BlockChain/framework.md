@@ -5,7 +5,7 @@
 ### Code
 
 - [POA](https://github.com/allinbits/modules)
-- [bandchain](https://github.com/allinbits/bandchain)
+- [BandChain](https://github.com/allinbits/bandchain)
 - [SecretNetwork](https://github.com/SecretFoundation/SecretNetwork)
 
 ### paper
