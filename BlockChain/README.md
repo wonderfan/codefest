@@ -9,6 +9,7 @@
 - [cosmos-awesome](https://github.com/cosmos/awesome)
 - [tendermint-awesome](https://github.com/tendermint/awesome)
 - [chainkit](https://github.com/blocklayerhq/chainkit)
+- [DeFi](https://fantom.foundation/research/defi-chain-modules.pdf)
 
 ## Project Documents
 
