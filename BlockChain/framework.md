@@ -7,7 +7,8 @@
 - [POA](https://github.com/allinbits/modules)
 - [BandChain](https://github.com/allinbits/bandchain)
 - [OASIS](https://github.com/oasisprotocol)
-- [thorchain](https://github.com/thorchain/thornode)
+- [Thorchain](https://github.com/thorchain/thornode)
+- [Terra](https://github.com/terra-project/core)
 - [SecretNetwork](https://github.com/SecretFoundation/SecretNetwork)
 
 ### paper
