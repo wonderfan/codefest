@@ -10,6 +10,8 @@
 - [Thorchain](https://github.com/thorchain/thornode)
 - [Terra](https://github.com/terra-project/core)
 - [SecretNetwork](https://github.com/SecretFoundation/SecretNetwork)
+- [Web-Wallet](https://github.com/unification-com/web-wallet)
+- [Go-Wallet](https://github.com/vegaprotocol/go-wallet)
 
 ### paper
 
