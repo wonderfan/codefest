@@ -10,6 +10,7 @@
 - [tendermint-awesome](https://github.com/tendermint/awesome)
 - [chainkit](https://github.com/blocklayerhq/chainkit)
 - [DeFi](https://fantom.foundation/research/defi-chain-modules.pdf)
+- [Substrate project](https://www.substrate.io/substrate-users/)
 
 ## Project Documents
 
