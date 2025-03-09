@@ -106,22 +106,6 @@
 
 > 信贷的逻辑与常识  金融的解释
 
-# 2019-07-11
-
-> How can I make your day better?
-
-> What could I do to make you feel more loved?
-
-> What could I do to make you feel more respected/honored?
-
-> What could I do to make you feel more understood?
-
-> What could I do to make you feel more secure?
-
-> What could I do to make you feel more appreciated?
-
-> Are you happy?
-
 > How do you envision our future together? What can we do together to achieve that goal?
 
 > Do you have any big dreams that you have yet to share with me? And, if so, how can I help you achieve them?
