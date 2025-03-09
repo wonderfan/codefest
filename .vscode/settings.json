@@ -1,4 +1,4 @@
 {
-  "terminal.integrated.fontSize": 18,
-  "workbench.colorTheme": "Default Dark+" 
+    "workbench.colorTheme": "Visual Studio Dark",
+    "terminal.integrated.fontSize": 18
 }
